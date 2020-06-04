@@ -1,4 +1,4 @@
-## minimal p5 starter - Organised by Keir
+## minimal p5 starter - Organised by _dampGrass
 
 **ABOUT**
 * This repository contains the minimal amount of code you need to start a P5.js sketch
